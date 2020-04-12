@@ -8,6 +8,14 @@ Face alignment
 - scipy 1.1.0
 - cv2
 - scikit-learn
+### environment setting cmds
+```
+apt-get update
+apt-get install -y libsm6 libxext6 libxrender-dev libglib2.0-0
+pip install opencv-python
+pip install numpy==1.16.2
+pip install scipy==1.1.0
+```
 # Test
 ```
 python align_dataset_mtcnn.py
