@@ -1,3 +1,4 @@
+./results/me/me_0.jpg 158 106 390 362
 ./results/naoki/naoki_0.jpg 457 687 838 1123
 ./results/us/btn_0.jpg 340 377 509 553
 ./results/us/btn_1.jpg 511 371 680 545
