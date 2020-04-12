@@ -1,0 +1,4 @@
+./results/naoki/naoki_0.jpg 457 687 838 1123
+./results/us/btn_0.jpg 340 377 509 553
+./results/us/btn_1.jpg 511 371 680 545
+./results/us/btn_2.jpg 405 377 575 551
